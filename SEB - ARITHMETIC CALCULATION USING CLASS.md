@@ -87,4 +87,5 @@ while True:
 
 
 RESULT
+
  Thus the  Python program to perform addition and division operations using a class was implemented and executed successfully.
